@@ -1,3 +1,19 @@
 ## COAL Semester Project – NASM (8088, 16-bit)
 
 This repository contains a **Semester 3 COAL project** implemented in **NASM 16-bit x86 Assembly** for the **8088 architecture**. The project runs in real mode and uses **VGA graphics programming** along with **BIOS and DOS interrupts**. It focuses on low-level concepts such as **direct hardware interaction**, **register-level programming**, **memory addressing**, and **modular assembly using subroutines**.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/homepage.png" width="500">
+  <br><br>
+  <img src="screenshots/difficulty.png" width="500">
+  <br><br>
+  <img src="screenshots/loading.png" width="500">
+  <br><br>
+  <img src="screenshots/gamesceen.png" width="500">
+  <br><br>
+  <img src="screenshots/gamepause.png" width="500">
+  <br><br>
+  <img src="screenshots/vga.gameover" width="500">
+</p>
